@@ -1,14 +1,6 @@
 {
     "status": "ok",
     "articles": [{
-        "id": 1,
-        "author": "Нина Ташевская",
-        "title": "«Москва-Сити» останется без апартаментов",
-        "description": "Столичный деловой центр «Москва-Сити» в 2021 году может остаться без готовых апартаментов на первичном рынке, если темпы 2020 года по продаже лотов сохранятся. До 20 процентов всех продаж в высокобюджетном сегменте Москвы в прошлом году пришлись на четыре про…",
-        "url": "https://lenta.ru/news/2021/03/17/deff/",
-        "urlToImage": "https://icdn.lenta.ru/images/2021/03/16/19/20210316192125254/share_6906ec4902ad1ca1561eecb65562ac1f.jpg",
-        "publishedAt": "2021-04-01"
-    }, {
         "id": 2,
         "author": "Татьяна Кротова",
         "title": "Новая Москва обогнала старую по темпам роста цен на жилье",
@@ -192,5 +184,13 @@
         "url": "https://riamo.ru/article/486321/zapis-na-dobrovolnyj-kvalifikatsionnyj-ekzamen-dlya-starshekursnikov-otkrylas-v-moskve.xl?utm_source=yxnews&utm_medium=desktop",
         "urlToImage": "https://shkolazhizni.ru/img/content/i166/166422_or.jpg",
         "publishedAt": "2021-04-15"
+    }, {
+        "id": 26,
+        "author": "Итнерфакс",
+        "title": "Кремль выразил сожаление в связи с ограничением доступа госкомпаний к Zoom",
+        "description": "В Кремле выражают сожаление в связи решением компании Zoom Video Communications ограничить доступ для российских юридических лиц с государственным участием и предлагают перейти на альтернативные российские сервисы, заявил пресс-секретарь президента РФ Дмитрий Песков.",
+        "url": "https://www.interfax.ru/russia/759948",
+        "urlToImage": "https://www.interfax.ru/ftproot/textphotos/2021/04/06/Zoom_700.jpg",
+        "publishedAt": "2021-04-08"
     }]
 }
